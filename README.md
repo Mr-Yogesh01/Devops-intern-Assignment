@@ -20,10 +20,10 @@ The objective of this assignment is to demonstrate practical knowledge of AWS Cl
 
 * Amazon Web Services (AWS)
 * EC2 (Elastic Compute Cloud)
-* Ubuntu Server 22.04 LTS
+* Amzon Linux Server
 * Linux Commands
 * Nginx Web Server
-* HTML5
+* HTML5,CSS & Javascript
 * Git & GitHub
 * Docker
 
