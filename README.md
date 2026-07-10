@@ -1,6 +1,6 @@
-# 🚀 AWS DevOps Engineer Intern Assignment
+# AWS DevOps Engineer Intern Assignment
 
-## 👨‍💻 Candidate Information
+## Candidate Information
 
 * **Name:** Yogesh Madhukar Vanjari
 * **Role:** AWS & DevOps Engineer Intern
@@ -10,13 +10,13 @@
 
 ---
 
-# 📌 Assignment Objective
+#  Assignment Objective
 
 The objective of this assignment is to demonstrate practical knowledge of AWS Cloud, Linux administration, Nginx web server deployment, Git, GitHub, and Docker by creating and managing a cloud-based web application on an AWS EC2 instance.
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 * Amazon Web Services (AWS)
 * EC2 (Elastic Compute Cloud)
@@ -29,7 +29,7 @@ The objective of this assignment is to demonstrate practical knowledge of AWS Cl
 
 ---
 
-# 📋 Task 1: Launch AWS EC2 Instance
+#  Task 1: Launch AWS EC2 Instance
 
 ### Configuration
 
@@ -41,7 +41,7 @@ The objective of this assignment is to demonstrate practical knowledge of AWS Cl
   * SSH (Port 22)
   * HTTP (Port 80)
 
-  # 🚀 AWS DevOps Engineer Intern Assignment (Amazon Linux Commands Only)
+  #  AWS DevOps Engineer Intern Assignment (Amazon Linux Commands Only)
 
 ## Connect to EC2
 
